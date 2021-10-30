@@ -1,4 +1,4 @@
-# ManipularStrings
+# Manipular Strings
  
 <p><strong>Formatar Strings:</strong> toLoawerCase(), toUpperCase(), Trim().</p>
 <p><strong>Recortar Strings:</strong> subString(inicio), subString(inicio, fim).</p>
